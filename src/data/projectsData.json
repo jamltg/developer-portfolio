@@ -1,0 +1,39 @@
+{
+    "firstrow":[
+        {
+            "title":"Cryptoverse",
+            "subtitle":"CRYPTO TRACKING WEBSITE",
+            "imagePath":"images/cryptoverse.JPG",
+            "className":"bg-[rgb(153,223,213)] p-8 rounded-xl box-shadow-bottom",
+            "githubUrl":"https://github.com/jamltg/cryptoverse/tree/master",
+            "liveUrl":"https://jamltg.github.io/cryptoverse/"
+        },
+        {
+            "title":"NDDU",
+            "subtitle":"SCHOOL WEBSITE (Wordpress - No source code)",
+            "imagePath":"images/NDDU.jpg",
+            "className":"bg-[rgb(232,184,156)] p-8 rounded-xl box-shadow-bottom",
+            "githubUrl":"https://github.com/jamltg/fitfuel/tree/master",
+            "liveUrl":"https://www.nddu.edu.ph/"
+        }
+    ],
+
+    "secondrow":[
+        {
+            "title":"Tabemono",
+            "subtitle":"RESTAURANT WEBSITE",
+            "imagePath":"images/tabemono.jpg",
+            "className":"bg-[rgb(183,224,255)] p-8 rounded-xl box-shadow-bottom",
+            "githubUrl":"https://github.com/jamltg/fitfuel/tree/master",
+            "liveUrl":"https://jamltg.github.io/tabemono/"
+        },
+        {
+            "title":"FitFuel",
+            "subtitle":"ECOMMERCE WEBSITE",
+            "imagePath":"images/fitfuel.JPG",
+            "className":"bg-[rgb(208,148,229)] p-8 rounded-xl box-shadow-bottom",
+            "githubUrl":"https://github.com/jamltg/fitfuel/tree/master",
+            "liveUrl":"https://jamltg.github.io/fitfuel/"
+        }
+    ]
+}
