@@ -9,37 +9,43 @@ export default function TechStack() {
                 Come check out what powers my digital playground, where creativity and practicality team up to build awesome web solutions.
             </p>
         </div>
-        <div className="flex space-x-4 justify-center py-8 lg:justify-start lg:space-x-7">
+        <div className="flex flex-wrap space-x-4 justify-center py-8 lg:justify-start lg:space-x-7">
             <img 
                 src="https://skillicons.dev/icons?i=html" 
                 alt="skill"
-                className='transform hover:scale-105'
+                className='transform hover:scale-105 mb-4'
             />
             <img 
                 src="https://skillicons.dev/icons?i=css" 
                 alt="skill"
-                className='transform hover:scale-105'
+                className='transform hover:scale-105 mb-4'
+            />
+            <img 
+                src="https://skillicons.dev/icons?i=tailwind" 
+                alt="skill"
+                className='transform hover:scale-105 mb-4'
             />
             <img 
                 src="https://skillicons.dev/icons?i=js" 
                 alt="skill"
-                className='transform hover:scale-105'
+                className='transform hover:scale-105 mb-4'
             />
             <img 
                 src="https://skillicons.dev/icons?i=react" 
                 alt="skill"
-                className='transform hover:scale-105'
+                className='transform hover:scale-105 mb-4'
             />
             <img 
                 src="https://skillicons.dev/icons?i=wordpress" 
                 alt="skill"
-                className='transform hover:scale-105'
+                className='transform hover:scale-105 mb-4'
             />
             <img 
                 src="https://skillicons.dev/icons?i=github" 
                 alt="skill"
-                className='transform hover:scale-105'
+                className='transform hover:scale-105 mb-4'
             />
+            
         </div>
     </div>
   )

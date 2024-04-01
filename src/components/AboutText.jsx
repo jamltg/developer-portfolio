@@ -1,7 +1,22 @@
 import React from 'react';
 import aboutpicture from '../images/about-picture.jpg';
+import { FaRegFileAlt } from "react-icons/fa";
 
 export default function AboutText() {
+    const handleDownload = () => {
+        // Create a link and set the URL to the path of your resume PDF
+        const link = document.createElement("a");
+        link.href = `${process.env.PUBLIC_URL}/resume.pdf`;
+        // Set the download attribute to the desired file name
+        link.download = "Letigio_Resume.pdf";
+        // Append the link to the body
+        document.body.appendChild(link);
+        // Trigger click
+        link.click();
+        // Remove the link from the body
+        document.body.removeChild(link);
+      };
+
   return (
     <div className='max-w-[1240px] mx-auto p-8 flex flex-col lg:flex-row'>
         <div className= 'lg:flex lg:justify-between'>
@@ -18,6 +33,15 @@ export default function AboutText() {
                     I thrive on turning ideas into interactive realities. I am eager to contribute to impactful projects 
                     and seek new opportunities to apply my skills.
                 </p>
+                <div className='flex justify-center lg:justify-start mt-6'>
+                    <button 
+                        onClick={handleDownload} 
+                        className='bg-[rgb(2,90,78)] px-4 py-4 rounded-xl flex items-center gap-2'
+                    >
+                        <span className='text-white'>Download my Resume</span>
+                        <FaRegFileAlt color="white" size={20}/>
+                    </button>
+                </div>
             </div>
             <div className='flex justify-center lg:max-w-[40%] pt-16 pb-8 lg:py-0'>
                 <img src={aboutpicture} alt="me" className='h-30 rounded-xl h-96'></img>
