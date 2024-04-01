@@ -13,7 +13,7 @@
             "subtitle":"SCHOOL WEBSITE (Wordpress - No source code)",
             "imagePath":"images/NDDU.jpg",
             "className":"bg-[rgb(232,184,156)] p-8 rounded-xl box-shadow-bottom",
-            "githubUrl":"https://github.com/jamltg/fitfuel/tree/master",
+            "githubUrl":"",
             "liveUrl":"https://www.nddu.edu.ph/"
         }
     ],
@@ -24,7 +24,7 @@
             "subtitle":"RESTAURANT WEBSITE",
             "imagePath":"images/tabemono.jpg",
             "className":"bg-[rgb(183,224,255)] p-8 rounded-xl box-shadow-bottom",
-            "githubUrl":"https://github.com/jamltg/fitfuel/tree/master",
+            "githubUrl":"https://github.com/jamltg/tabemono/tree/master",
             "liveUrl":"https://jamltg.github.io/tabemono/"
         },
         {
