@@ -31,6 +31,11 @@ export default function TechStack() {
                 className='transform hover:scale-105 mb-4'
             />
             <img 
+                src="https://skillicons.dev/icons?i=jquery" 
+                alt="skill"
+                className='transform hover:scale-105 mb-4'
+            />
+            <img 
                 src="https://skillicons.dev/icons?i=react" 
                 alt="skill"
                 className='transform hover:scale-105 mb-4'
@@ -45,7 +50,6 @@ export default function TechStack() {
                 alt="skill"
                 className='transform hover:scale-105 mb-4'
             />
-            
         </div>
     </div>
   )
