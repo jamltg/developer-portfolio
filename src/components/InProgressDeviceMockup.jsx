@@ -4,7 +4,7 @@ export default function InProgressDeviceMockup({imagePath}) {
   return (
     <div>
         <div class="relative mx-auto border-gray-800 dark:border-gray-800 bg-gray-800 border-[8px] rounded-t-xl h-[172px] w-[225px] md:w-[342px] md:h-[234px] lg:w-[372px]">
-            <div class="flex justify-center items-center rounded-lg overflow-hidden h-[156px] md:h-[218px] dark:bg-gray-800">
+            <div class="flex justify-center items-center text-center rounded-lg overflow-hidden h-[156px] md:h-[218px] dark:bg-gray-800">
                 <h1 className='font-acorn text-[rgb(209,233,225)] text-2xl'>Under Development..</h1>
             </div>
         </div>

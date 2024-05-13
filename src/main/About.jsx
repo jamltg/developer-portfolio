@@ -1,7 +1,6 @@
 import React from 'react';
 import AboutText from '../components/AboutText';
 import TechStack from '../components/TechStack';
-import CollaborateTab from '../components/CollaborateTab';
 
 export default function About() {
   return (
