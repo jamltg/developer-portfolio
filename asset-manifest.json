@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/developer-portfolio/static/css/main.e9d085ca.css",
-    "main.js": "/developer-portfolio/static/js/main.a0b04988.js",
+    "main.css": "/developer-portfolio/static/css/main.cc6b7a30.css",
+    "main.js": "/developer-portfolio/static/js/main.60c3c3ad.js",
     "static/media/about-picture.jpg": "/developer-portfolio/static/media/about-picture.6252412406b8c9f0bff8.jpg",
     "static/media/hero-picture.jpg": "/developer-portfolio/static/media/hero-picture.5ef074cf2a63f514bf83.jpg",
     "static/media/NDDU.jpg": "/developer-portfolio/static/media/NDDU.82f6f13a2fbb6057dddf.jpg",
+    "static/media/programming.png": "/developer-portfolio/static/media/programming.6c569f9eec00a89264d6.png",
     "static/media/tabemono.jpg": "/developer-portfolio/static/media/tabemono.dd3f2454d210394c5a54.jpg",
     "static/media/fitfuel.JPG": "/developer-portfolio/static/media/fitfuel.c3d94a515045a23195ea.JPG",
     "static/media/cryptoverse.JPG": "/developer-portfolio/static/media/cryptoverse.8a691aeb54c1fa1270b9.JPG",
     "static/media/acorn-3.ttf": "/developer-portfolio/static/media/acorn-3.2d49c532a03e51381615.ttf",
     "static/media/appleclone.jpg": "/developer-portfolio/static/media/appleclone.3f61c00d1e75491b94f9.jpg",
     "index.html": "/developer-portfolio/index.html",
-    "main.e9d085ca.css.map": "/developer-portfolio/static/css/main.e9d085ca.css.map",
-    "main.a0b04988.js.map": "/developer-portfolio/static/js/main.a0b04988.js.map"
+    "main.cc6b7a30.css.map": "/developer-portfolio/static/css/main.cc6b7a30.css.map",
+    "main.60c3c3ad.js.map": "/developer-portfolio/static/js/main.60c3c3ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9d085ca.css",
-    "static/js/main.a0b04988.js"
+    "static/css/main.cc6b7a30.css",
+    "static/js/main.60c3c3ad.js"
   ]
 }
