@@ -4,8 +4,8 @@ export default function TechStack() {
   return (
     <div className='max-w-[1240px] mx-auto px-8'>
         <div className='lg:max-w-[60%]'>
-            <h1 className='font-acorn text-2xl text-[rgb(2,90,78)] md:text-3xl lg:text-4xl'>My Tech Stack</h1>
-            <p className='pt-4 text-[rgb(76,103,99)] font-medium md:text-lg'>
+            <h1 className='font-acorn text-2xl text-[rgb(2,90,78)] dark:text-[rgb(209,233,225)] md:text-3xl lg:text-4xl'>My Tech Stack</h1>
+            <p className='pt-4 text-[rgb(76,103,99)] dark:text-[rgb(176,200,191)] font-medium md:text-lg'>
                 Come check out what powers my digital playground, where creativity and practicality team up to build awesome web solutions.
             </p>
         </div>

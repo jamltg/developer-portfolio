@@ -1,12 +1,12 @@
 {
     "firstrow":[
         {
-            "title":"Cryptoverse",
-            "subtitle":"CRYPTO TRACKING WEBSITE",
-            "imagePath":"images/cryptoverse.JPG",
+            "title":"Apple Homepage (Clone)",
+            "subtitle":"Apple Official Homepage",
+            "imagePath":"images/appleclone.jpg",
             "className":"bg-[rgb(153,223,213)] p-8 rounded-xl box-shadow-bottom",
-            "githubUrl":"https://github.com/jamltg/cryptoverse/tree/master",
-            "liveUrl":"https://jamltg.github.io/cryptoverse/"
+            "githubUrl":"https://github.com/jamltg/apple-clone",
+            "liveUrl":"https://apple-clone-red.vercel.app/"
         },
         {
             "title":"NDDU",

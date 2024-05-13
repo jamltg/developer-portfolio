@@ -9,7 +9,7 @@ export default function CollaborateTab() {
 
   return (
     <div className='w-full h-auto'>
-        <div className='max-w-[1240px] mx-auto w-full px-8 py-14'>
+        <div className='max-w-[1240px] mx-auto w-full px-8 py-6'>
           <div className='flex justify-center'>
             <div className='flex-grow text-center mb-4'>
               <button>
@@ -18,7 +18,7 @@ export default function CollaborateTab() {
                     setEducationIsClicked(true);
                     setInterestsIsClicked(false);
                   }}
-                  className={`${educationIsClicked ? 'active cursor-pointer font-acorn text-2xl text-[rgb(2,90,78)] md:text-3xl lg:text-4xl' : 'cursor-pointer font-acorn text-2xl text-[rgb(2,90,78)] md:text-3xl lg:text-4xl'}`}
+                  className={`${educationIsClicked ? 'active cursor-pointer font-acorn text-2xl text-[rgb(2,90,78)] dark:text-[rgb(209,233,225)] md:text-3xl lg:text-4xl' : 'cursor-pointer font-acorn text-2xl text-[rgb(2,90,78)] md:text-3xl lg:text-4xl'}`}
                 >
                   Education
                 </h1>
@@ -31,14 +31,14 @@ export default function CollaborateTab() {
                     setInterestsIsClicked(true);
                     setEducationIsClicked(false);
                   }}
-                  className={`${interestsIsClicked ? 'active cursor-pointer font-acorn text-2xl text-[rgb(2,90,78)] md:text-3xl lg:text-4xl' : 'cursor-pointer font-acorn text-2xl text-[rgb(2,90,78)] md:text-3xl lg:text-4xl'}`}
+                  className={`${interestsIsClicked ? 'active cursor-pointer font-acorn text-2xl text-[rgb(2,90,78)] dark:text-[rgb(209,233,225)] md:text-3xl lg:text-4xl' : 'cursor-pointer font-acorn text-2xl text-[rgb(2,90,78)] md:text-3xl lg:text-4xl'}`}
                 >
                   Interests
                 </h1>
               </button>
             </div>
           </div>
-          <div className='bg-[rgb(246,243,239)] rounded-lg p-8 lg:w-[80%] mx-auto box-shadow-bottom'>
+          <div className='bg-[rgb(246,243,239)] dark:bg-[rgb(2,90,78)] transition-colors duration-500 rounded-lg p-8 lg:w-[80%] mx-auto box-shadow-bottom'>
             <div>
               {educationIsClicked && <CollaborateEducation/>}
               {interestsIsClicked && <CollaborateInterests/>}
