@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/developer-portfolio/static/css/main.7f14adfb.css",
-    "main.js": "/developer-portfolio/static/js/main.29140087.js",
+    "main.css": "/developer-portfolio/static/css/main.894d3ae6.css",
+    "main.js": "/developer-portfolio/static/js/main.2f55a16d.js",
+    "static/media/MNT-110.jpg": "/developer-portfolio/static/media/MNT-110.90ac0dbd0481b97f72e7.jpg",
     "static/media/about-picture.jpg": "/developer-portfolio/static/media/about-picture.6252412406b8c9f0bff8.jpg",
     "static/media/hero-picture.jpg": "/developer-portfolio/static/media/hero-picture.5ef074cf2a63f514bf83.jpg",
     "static/media/NDDU.jpg": "/developer-portfolio/static/media/NDDU.82f6f13a2fbb6057dddf.jpg",
@@ -10,13 +11,14 @@
     "static/media/fitfuel.JPG": "/developer-portfolio/static/media/fitfuel.c3d94a515045a23195ea.JPG",
     "static/media/cryptoverse.JPG": "/developer-portfolio/static/media/cryptoverse.8a691aeb54c1fa1270b9.JPG",
     "static/media/acorn-3.ttf": "/developer-portfolio/static/media/acorn-3.2d49c532a03e51381615.ttf",
+    "static/media/loading.png": "/developer-portfolio/static/media/loading.ab0a7092470dd12c9391.png",
     "static/media/appleclone.jpg": "/developer-portfolio/static/media/appleclone.3f61c00d1e75491b94f9.jpg",
     "index.html": "/developer-portfolio/index.html",
-    "main.7f14adfb.css.map": "/developer-portfolio/static/css/main.7f14adfb.css.map",
-    "main.29140087.js.map": "/developer-portfolio/static/js/main.29140087.js.map"
+    "main.894d3ae6.css.map": "/developer-portfolio/static/css/main.894d3ae6.css.map",
+    "main.2f55a16d.js.map": "/developer-portfolio/static/js/main.2f55a16d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f14adfb.css",
-    "static/js/main.29140087.js"
+    "static/css/main.894d3ae6.css",
+    "static/js/main.2f55a16d.js"
   ]
 }
