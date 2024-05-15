@@ -20,12 +20,12 @@
 
     "secondrow":[
         {
-            "title":"Tabemono",
-            "subtitle":"RESTAURANT WEBSITE",
-            "imagePath":"images/tabemono.jpg",
+            "title":"Spotify Dashboard (Clone)",
+            "subtitle":"Spotify",
+            "imagePath":"images/spotify.jpg",
             "className":"bg-[rgb(183,224,255)] p-8 rounded-xl box-shadow-bottom",
-            "githubUrl":"https://github.com/jamltg/tabemono/tree/master",
-            "liveUrl":"https://jamltg.github.io/tabemono/"
+            "githubUrl":"https://github.com/jamltg/spotify-clone",
+            "liveUrl":"https://spotify-clone-nine-drab.vercel.app/"
         },
         {
             "title":"FitFuel",
